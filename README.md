@@ -24,8 +24,8 @@ Thành viên:
 # 3. Cài đặt môi trường
 
 ```
-conda create -n aic2021 python=3.8
-conda activate aic2021
+conda create -n speed_report python=3.8
+conda activate speed_report
 
 git clone https://github.com/dnsang1611/CS117.022-SpeedReport.git
 
